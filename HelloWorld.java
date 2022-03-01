@@ -3,5 +3,6 @@ public class HelloWorld{
   {
       System.out.println("Hello World");
       int a=10;
-   }
+      int b=10;     
+  }
 }
