@@ -4,6 +4,7 @@ public class HelloWorld{
       System.out.println("Hello World");
       int a=10;
       int b=10;
-      int c= a+b;     
+      int c= a+b; 
+      System.out.println(c);
   }
 }
